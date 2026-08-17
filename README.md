@@ -1,4 +1,4 @@
-# contact-profile-web-II-
+# contact-profile web II - component made with react and props
 
 # Menelik Alemayehu 
 # DRBSE2401 B 
